@@ -9,6 +9,7 @@ class BST {
 
     static class Node {
         int bob;
+        booolean gary;
         int val;
         Node left;
         Node right;

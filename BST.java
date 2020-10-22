@@ -8,6 +8,7 @@ class BST {
     static Node root;
 
     static class Node {
+        int bob;
         int val;
         Node left;
         Node right;
